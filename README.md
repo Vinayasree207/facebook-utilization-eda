@@ -1,6 +1,6 @@
 # facebook-utilization-eda
 
-# ** Introduction**
+# **Introduction**
 
 #### **Background**
 - Facebook an online social media and social networking company founded in 2004 is now a part of the company Meta Platforms.
